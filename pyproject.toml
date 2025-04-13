@@ -1,6 +1,6 @@
 [project]
 name = "konseki"
-version = "0.1.1"
+version = "0.1.2"
 description = "A Python CLI tool to view and summarize a GitHub user's recent activity from their public events."
 license = { file = "LICENSE" }
 authors = [{ name = "Ahmad Azwar Annas", email = "ahmadazw2@gmail.com" }]
